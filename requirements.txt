@@ -1,0 +1,8 @@
+streamlit
+passlib
+bcrypt==4.0.1
+reportlab
+opencv-python-headless
+pillow
+numpy
+tensorflow-cpu
